@@ -17,7 +17,7 @@ Both repositories document the construction of a synthetic sports interview repr
 
 ## Organizational Context Chosen
 
-I chose a university athletics communications office as the setting for my policy. The choice is deliberate. My Task 6 artifact used a real university's brand, real player names, and real season statistics, all rendered through an AI generated coach that the university did not authorize. That specific ethical feature, institutional brand representation without institutional consent, becomes an operational question inside an athletics communications office rather than a thought experiment. The office has real employees, real audiences, real reputational stakes, and a real temptation to use tools like CapCut for rapid content production. A policy written for this setting can be concrete, specific, and adoptable on a Monday morning.
+I chose a university athletics communications office as the setting for my policy. The choice is deliberate. My Task 6 artifact used a real university's brand, real player names, and real season statistics, all rendered through an AI generated coach. That specific ethical feature, institutional brand representation without institutional consent, becomes an operational question inside an athletics communications office rather than a thought experiment. The office has real employees, real audiences, real reputational stakes, and a real temptation to use tools like CapCut for rapid content production. A policy written for this setting can be concrete, specific, and adoptable.
 
 ## Repository Map
 
