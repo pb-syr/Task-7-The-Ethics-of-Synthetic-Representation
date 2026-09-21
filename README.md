@@ -25,10 +25,4 @@ I chose a university athletics communications office as the setting for my polic
 - [phase_b_policy.md](phase_b_policy.md) contains the actual policy document, written for a university athletics communications office. It takes positions on permitted uses, prohibited uses, consent workflow, disclosure standards, provenance requirements, review and approval, incident response, and conditions for refusal.
 - [limitations.md](limitations.md) contains an honest account of where the policy fails, what residual risk remains, and where the policy depends on good faith.
 
-## What Surprised Me
 
-Two things surprised me while writing this task.
-
-The first was how easily I had misdescribed my own Task 6 artifact. I wrote in the Task 6 README that the video contained AI generated voice narration, before I had actually confirmed the audio was present. When I watched the artifact again for Task 7, it was silent. That small documentation failure, on a project where nothing was at stake, taught me more about the scale of the synthetic media problem than any article I could have read. If I can misdescribe my own work in my own README, the capacity for misdescription at scale by actors with incentives is not hypothetical.
-
-The second was how much of the ethical weight sits in the institutional brand rather than the individual likeness. My Task 6 artifact used a generic AI coach, so no person's likeness was misused. But Syracuse University is real, and its colors, its team, and its players' statistics were used to lend credibility to a synthetic production the university did not authorize. I did not see that as a consent problem until I tried to reason outward from my own artifact. Institutional identity turns out to be a distinct consent surface, and it is not governed by the same norms as individual likeness rights.
