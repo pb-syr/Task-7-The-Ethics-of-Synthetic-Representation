@@ -170,4 +170,3 @@ The office declines to produce synthetic media, even for uses that Section 2 wou
 
 ---
 
-*End of Phase B.*
